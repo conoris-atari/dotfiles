@@ -6,8 +6,8 @@
 #    insteadOf = git://
 # end
 [user]
-    name  = acchanAlexander
-    email = acchanAlexander@users.noreply.github.com
+    name  = conoris-atari
+    email = 242310930+conoris-atari@users.noreply.github.com
 [color]
     status      = auto
     diff        = auto
